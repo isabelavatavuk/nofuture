@@ -1,0 +1,76 @@
+#one{
+    background-image:url("matrix.gif") 
+    
+}
+#computadorquantico 
+{ position: relative;
+    left: 200px;
+    top: 50px;
+    overflow:hidden;
+}
+#sense {
+    position: absolute;
+    left: 100px;
+    top: 200px;
+    overflow:hidden;
+}
+#error {
+    position: absolute;
+    left: 700px;
+    top: 250px;
+    overflow:hidden;
+}
+#youtube {
+    position: absolute;
+    left: 1000px;
+    top: 300px;
+    overflow:hidden;
+}
+#two {
+    background-image: url("https://media.giphy.com/media/Oy4nobvUxIonu/giphy.gif");
+}
+#floresta {
+    position: relative;
+    left: 300px;
+    top:300px;
+    overflow:hidden;
+}
+#fire {
+    position: absolute;
+    left: 500px;
+    top:700px;
+    overflow:hidden;
+}
+#whopper {
+    position: absolute;
+    left: 600px;
+    top:700px;
+    overflow:hidden;
+}
+#giphy-embed{
+    position: absolute;
+    left: 50px;
+    top:700px;
+    overflow:hidden;
+}
+
+#Donna {
+    position: absolute;
+    left: 900px;
+    top:1100px;
+    overflow:hidden;
+
+}
+#three {
+    background-image: url("https://media.giphy.com/media/3oKIPlCroSFHV8uoko/giphy.gif");
+}
+body {
+    background-image:  url(https://media.giphy.com/media/3oKIPlCroSFHV8uoko/giphy.gif);
+}
+#desenho {
+    position: absolute;
+    left: 200px;
+    top:1100px;
+    overflow:hidden;
+
+}

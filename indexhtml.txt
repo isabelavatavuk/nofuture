@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>No Future</title>
+</head>
+<body>
+   <div id="one">
+    <a href="https://olhardigital.com.br/noticia/entenda-o-que-o-computador-quantico-do-google-faz-de-tao-diferente/92006">
+        <img src="https://cdn.tecnoblog.net/wp-content/uploads/2019/10/Google-computador-quantico-Sycamore-2-700x394.jpg" 
+        alt="Google-computador-quantico-Sycamore-2-700x394" width="800"
+        id="computadorquantico"
+        > </a>
+   
+    <a href="https://www.wemystic.com.br/artigos/previsao-do-futuro-futurologia-preve-como-sera-a-vida-em-150-anos/"><img src="marcia.jpg"
+        alt="sensemarcia" width="700" id="sense"></a>
+    <img src="https://media.giphy.com/media/5kzB8SARBWCmQ/giphy.gif" alt="error" id="error"> 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jAhjPd4uNFY"
+     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen id="youtube"></iframe>
+   </div>
+   <div id="two">
+    <img src="https://www.azulis.com.br/wp-content/uploads/2019/08/shutterstock_592905509-770x478.jpg" alt="florestaamazonica"
+    id="floresta">
+    <img src="https://media.giphy.com/media/l46CjrIK2Zi2hy20U/giphy.gif" alt="fire" id="fire">
+    <a href="https://youtu.be/5LDHSBVZpzc"><img src="https://assets.b9.com.br/wp-content/uploads/2019/04/burger-king-impossible-whopper.jpg" alt="whopper" width="700" id="whoper"></a>
+    </div>
+    <div id="three">
+
+        <a href="https://literariness.org/2018/02/22/key-theories-of-donna-haraway/"><img src="https://i1.wp.com/literariness.org/wp-content/uploads/2018/02/1413040.jpg?zoom=1.25&w=339&h=528&ssl=1" id="Donna" alt="DonnaHaraway"></a>
+        <iframe src="https://giphy.com/embed/dXv0Lnn1MRvj9X4mrB" width="480" height="480" frameBorder="0" id="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/climate-change-hot-weather-dXv0Lnn1MRvj9X4mrB">via GIPHY</a></p>
+        <img src="WhatsApp.jpeg" alt="desenho" id="desenho">
+        
+    </div>
+</iframe>
+</body>
+</html>
